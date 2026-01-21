@@ -12,9 +12,9 @@ I build modern, scalable web applications with expertise in the JavaScript ecosy
 - 🤖 Proficient in **AI-assisted development**
 - 🌱 Currently building: **TaskFlow AI Project**
 - 🎯 Expert Generalist: Deep in JavaScript, versatile across technologies
-- 📫 Reach me: **[your.email@example.com]**
-- 🔗 Portfolio: **[yourportfolio.com]**
-- 💼 LinkedIn: **[linkedin.com/in/yourprofile]**
+- 📫 Reach me: **dineshd0312@gmail.com**
+- 🔗 Portfolio: **https://dinesh-sigma.vercel.app**
+- 💼 LinkedIn: **www.linkedin.com/in/dineshd0312**
 
 ---
 
