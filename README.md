@@ -50,22 +50,22 @@ I build modern, scalable web applications with expertise in the JavaScript ecosy
 
 ## 🎯 Featured Projects
 
-### 🚀 [Project Name 1](https://github.com/yourusername/project1)
+### 🚀 [Project Management App](**https://github.com/yourusername/project1**)
 AI-powered full-stack application built with Next.js, TypeScript, Node.js, and MongoDB.
-- 🔹 Features: [Key feature 1], [Key feature 2]
-- 🔹 Tech: Next.js, TypeScript, Node.js, MongoDB, OpenAI API
-- 🔹 [Live Demo](https://yourproject.com) | [Repository](https://github.com/yourusername/project1)
+- 🔹 Features: Add or create Projects, Add Tasks to project, Delete projects and Delete tasks from project
+- 🔹 Tech: React, Tailwind CSS
+- 🔹 [Live Demo](https://project-management-app-using-contex.vercel.app/) | [Repository](https://github.com/DineshDesappan/Project-Management-App-using-Context-API)
 
-### 📊 [Project Name 2](https://github.com/yourusername/project2)
+### 📊 [Timer Challenge App](https://github.com/yourusername/project2)
 Real-time dashboard with modern UI and API integration.
-- 🔹 Features: [Key features]
-- 🔹 Tech: React, TypeScript, Tailwind CSS
-- 🔹 [Live Demo](https://yourproject2.com)
+- 🔹 Features: Start and stop Timer Challenges and see their score
+- 🔹 Tech: React
+- 🔹 [Live Demo](https://timer-challenge-dinesh.vercel.app/)
 
-### 🔧 [Project Name 3](https://github.com/yourusername/project3)
+### 🔧 [Django REST API](https://github.com/DineshDesappan/Django_Rest_Framework)
 Django REST API demonstrating full-stack versatility.
-- 🔹 Features: Authentication, CRUD operations
-- 🔹 Tech: Django, DRF, PostgreSQL
+- 🔹 Features: IMDB API, CRUD operations
+- 🔹 Tech: Django, DRF, SQL Lite
 
 ---
 
