@@ -50,17 +50,17 @@ I build modern, scalable web applications with expertise in the JavaScript ecosy
 
 ## 🎯 Featured Projects
 
-### 🚀 [Project Management App](**https://github.com/yourusername/project1**)
+### 🚀 [Project Management App](https://github.com/DineshDesappan/Project-Management-App-using-Context-API)
 AI-powered full-stack application built with Next.js, TypeScript, Node.js, and MongoDB.
 - 🔹 Features: Add or create Projects, Add Tasks to project, Delete projects and Delete tasks from project
 - 🔹 Tech: React, Tailwind CSS
 - 🔹 [Live Demo](https://project-management-app-using-contex.vercel.app/) | [Repository](https://github.com/DineshDesappan/Project-Management-App-using-Context-API)
 
-### 📊 [Timer Challenge App](https://github.com/yourusername/project2)
+### 📊 [Timer Challenge App](https://github.com/DineshDesappan/Timer-Challenge-using-Refs-and-Portals-React-)
 Real-time dashboard with modern UI and API integration.
 - 🔹 Features: Start and stop Timer Challenges and see their score
 - 🔹 Tech: React
-- 🔹 [Live Demo](https://timer-challenge-dinesh.vercel.app/)
+- 🔹 [Live Demo](https://timer-challenge-dinesh.vercel.app/) | [Repository](https://github.com/DineshDesappan/Timer-Challenge-using-Refs-and-Portals-React-)
 
 ### 🔧 [Django REST API](https://github.com/DineshDesappan/Django_Rest_Framework)
 Django REST API demonstrating full-stack versatility.
