@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Dinesh D
 
-**PCB Design Engineer | Electronics Enthusiast | Full Stack Developer**
+**PCB Design Engineer | Electronics Enthusiast
 
 I am an Electronics and Communication Engineering graduate passionate about **Hardware Systems Integration**. My focus is on designing robust, manufacturing-ready PCBs, bridging the gap between schematic theory and physical products.
 
@@ -8,15 +8,15 @@ I am an Electronics and Communication Engineering graduate passionate about **Ha
 
 ### 🛠️ Hardware & Electronics Skills
 
-- **PCB Design:** KiCad (Proficient), EasyEDA, Altium (Learning)
+- **PCB Design:** KiCad (Proficient), EasyEDA.
 - **Layout:** High-Speed Routing (USB Diff Pairs), Signal Integrity, Power Integrity, Ground Stitching.
 - **Microcontrollers:** STM32 (ARM Cortex-M), ESP32, Arduino (AVR).
 - **Manufacturing:** DFM Validation, Gerber Generation, BOM Management, Pick & Place Data.
 
-### 💻 Software Skills
+### 💻 Firmware & Scripting
 
-- **Languages:** Python, C (Embedded), JavaScript.
-- **Web:** React.js, Django REST Framework.
+- **Languages:** Embedded C, C++, Python
+- **Protocols:** I2C, SPI, UART, USB.
 
 ---
 
@@ -31,11 +31,6 @@ _A production-ready ARM Cortex-M3 development board designed from scratch in KiC
 - **Power:** AMS1117-3.3 LDO with optimized decoupling network.
 - **Diagnostics:** Onboard **WS2812B** Smart LED for status indication.
 - **Status:** ✅ Designed, DFM Validated, Ready for Manufacturing.
-
-#### 🎹 **Synthe-Touch MIDI Controller** (Concept)
-
-- Capacitive touch MIDI interface design using PCB copper areas as sensors.
-- Exploration of USB Power Delivery (PD) protocols.
 
 ---
 
