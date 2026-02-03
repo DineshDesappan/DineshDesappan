@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Dinesh D
 
-**PCB Design Engineer | Electronics Enthusiast
+PCB Design Engineer | Electronics Enthusiast
 
 I am an Electronics and Communication Engineering graduate passionate about **Hardware Systems Integration**. My focus is on designing robust, manufacturing-ready PCBs, bridging the gap between schematic theory and physical products.
 
