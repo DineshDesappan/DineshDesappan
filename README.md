@@ -16,6 +16,10 @@
   <a href="https://github.com/DineshDesappan">
     <img src="https://img.shields.io/badge/GitHub-DineshDesappan-181717?style=flat&logo=github&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://dinesh-sigma.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-dinesh--sigma.vercel.app-000000?style=flat&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -133,6 +137,7 @@
 
 | Platform    | Link                                                               |
 | ----------- | ------------------------------------------------------------------ |
+| 🌐 Portfolio | [dinesh-sigma.vercel.app](https://dinesh-sigma.vercel.app)        |
 | 📧 Email    | [dineshd0312@gmail.com](mailto:dineshd0312@gmail.com)              |
 | 💼 LinkedIn | [linkedin.com/in/dineshd0312](https://linkedin.com/in/dineshd0312) |
 | 🐙 GitHub   | [github.com/DineshDesappan](https://github.com/DineshDesappan)     |
